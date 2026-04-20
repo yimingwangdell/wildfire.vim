@@ -32,7 +32,7 @@ cal s:setup_colors()
 " =============================================================================
 
 let g:wildfire_objects =
-    \ get(g:, "wildfire_objects", split("ip i) i] i} i' i\" it"))
+    \ get(g:, "wildfire_objects", split("ip i) i] i} i> i' i\" it"))
 
 let g:wildfire_fuel_map =
     \ get(g:, "wildfire_fuel_map", "<ENTER>")
