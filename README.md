@@ -1,3 +1,8 @@
+## Support i>
+
+Because original wildfire.vim doesn't support object: i>, fix it.
+
+
 ## wildfire.vim
 
 With *Wildfire* you can quickly select the closest text object among a group of candidates. By default candidates are `i'`, `i"`, `i)`, `i]`, `i}`, `ip` and `it`.
